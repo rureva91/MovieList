@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieList</string>
+    <string name="no_contacts">No Movies</string>
+    <string name="menuitem_add">Add</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="button_save_contact">Save Contact</string>
+    <string name="hint_name">Title (Required)</string>
+    <string name="hint_email">Music</string>
+    <string name="hint_phone">Director</string>
+    <string name="hint_street">Language</string>
+    <string name="hint_city">Releasedate</string>
+    <string name="hint_state">Actress</string>
+    <string name="hint_zip">Actor</string>
+    <string name="label_name">Title:</string>
+    <string name="label_email">Music:</string>
+    <string name="label_phone">Director:</string>
+    <string name="label_street">Language:</string>
+    <string name="label_city">Releasedate:</string>
+    <string name="label_state">Actress:</string>
+    <string name="label_zip">Actor:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the movie</string>
+    <string name="ok">OK</string>
+    <string name="error_message">You must enter a movie name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+
+</resources>
